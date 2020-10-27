@@ -13,5 +13,5 @@ async def hello(ctx):
 
 
 
-client.run("NzY5MjA4MTg1OTM1NjI2MzEx.X5Lq8g.9r-cml5TiTsI87Ienki5M0wKQDQ")
+client.run("NzY5MjA4MTg1OTM1NjI2MzEx.X5Lq8g._Pk6q6eTTFhfm8ytfXE0398lpvc")
 
