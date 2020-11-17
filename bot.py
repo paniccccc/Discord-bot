@@ -29,6 +29,8 @@ async def cringe(ctx):
     await ctx.send("Kya rey tera bulla kat dunga")
 
 @client.command()
+async def 
+@client.command()
 async def rule(ctx,*,number): 
     await ctx.send(rules[int(number)-1])
 
