@@ -12,21 +12,21 @@ async def on_ready():
 
 @client.event
 async def on_member_join(member):
-    print(f'{member} has joined a server. Fresh meat has arrived')
+    print(f'{member} has joined a server.')
 
 @client.event
 async def on_member_remove(member):
-    print(f'{member} has left the server. The prey has left :(')
+    print(f'{member} has left the server.')
 
 
 @client.command()
 async def hello(ctx):
-    await ctx.send("Fuck off you cunt")
+    await ctx.send("Hey there !")
 
 
 @client.command()
 async def cringe(ctx):
-    await ctx.send("Kya rey tera bulla kat dunga")
+    await ctx.send("Cringe")
 
 @client.command()
 async def 
